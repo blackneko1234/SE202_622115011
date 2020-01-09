@@ -5,7 +5,7 @@
     <meta charset="utf-8" />
     <link rel="stylesheet" href="style.css" />
   
-    <title>Assignment 1: GitHub practice</title>
+    
 </head>
 
 <body>
